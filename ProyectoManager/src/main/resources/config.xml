@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuracion>
+	<ruta_bd_sqlite>jdbc:sqlite:../Proyecto_Manager_Futbol/bd/manager_futbol.db</ruta_bd_sqlite>
+	<ruta_equips>..\\ProyectoManager\\src\\main\\resources\\equips.xml</ruta_equips>
+	<ruta_jugadors>..\\ProyectoManager\\src\\main\\resources\\jugadors.xml</ruta_jugadors>
+	<ruta_txt>..\\Proyecto_Manager_Futbol\\txt\\equip</ruta_txt>
+	<ruta_phpmyadmin>jdbc:mysql://localhost:3306/</ruta_phpmyadmin>
+	<ruta_bd_mysql>jdbc:mysql://localhost:3306/manager_futbol</ruta_bd_mysql>
+	<ruta_jornada1>..\\ProyectoManager\\src\\main\\resources\\jornada1.txt</ruta_jornada1>&gt;
+</configuracion>
